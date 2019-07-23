@@ -12,6 +12,8 @@
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {
+        "phpunit/phpunit": "^8",
+        "symfony/test-pack": "^1.0"
     },
     "config": {
         "preferred-install": {
